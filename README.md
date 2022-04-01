@@ -39,25 +39,25 @@ Cette application permet aux utilisateurs (professeurs et étudiants) de répert
 
 1. Rendez vous dans le dossier contenant les fichiers **Symfony**.
      
-```bash
-📁 ─ stage-symfony
-├──  📁 ─ bin
-├──  📁 ─ config
-├──  📁 ─ migrations
-├──  📁 ─ public
-├──  📁 ─ src
-├──  📁 ─ templates
-├──  📁 ─ translations
-├──  📁 ─ var
-├──  📁 ─ vendor
-├──  📑 ─ composer.json
-├──  📑 ─ composer.lock
-├──  📑 ─ docker-compose.override.yaml
-├──  📑 ─ docker-compose.yaml
-├──  📑 ─ phpunit.xml.dist
-├──  📑 ─ symfony.lock
-└──  📑 ─ .env
-```
+     ```bash
+     📁 ─ stage-symfony
+     ├──  📁 ─ bin
+     ├──  📁 ─ config
+     ├──  📁 ─ migrations
+     ├──  📁 ─ public
+     ├──  📁 ─ src
+     ├──  📁 ─ templates
+     ├──  📁 ─ translations
+     ├──  📁 ─ var
+     ├──  📁 ─ vendor
+     ├──  📑 ─ composer.json
+     ├──  📑 ─ composer.lock
+     ├──  📑 ─ docker-compose.override.yaml
+     ├──  📑 ─ docker-compose.yaml
+     ├──  📑 ─ phpunit.xml.dist
+     ├──  📑 ─ symfony.lock
+     └──  📑 ─ .env
+     ```
 
 2. Ouvrez un **Terminal** ici et tapez :
      ```bash
