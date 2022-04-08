@@ -1,15 +1,13 @@
 # Application de Gestion de Stages 👨‍💻
 
-<img src="https://user-images.githubusercontent.com/101253389/157455133-4713fc13-9af5-4abb-bf4d-a114882648a8.png" align="right"
-     alt="Icon" width="96" height="96">
+![env](https://user-images.githubusercontent.com/101253389/157455133-4713fc13-9af5-4abb-bf4d-a114882648a8.png)
 L'application de gestion de stages est une application Web utilisant **Symfony**.
 Ce projet a été réalisé dans le cadre d'un travail en groupe durant notre formation BTS SIO Option SLAM.
 
 // REFAIRE MIEUX
 Cette application permet aux utilisateurs (professeurs et étudiants) de répertorier et de gérer les stages.
 
-<img src="https://user-images.githubusercontent.com/101253389/157456354-9f07beac-dd1b-41ac-9ea7-895392f17a70.png" align="center"
-     alt="Icon" width="90%" height="auto">
+![env](https://user-images.githubusercontent.com/101253389/157456354-9f07beac-dd1b-41ac-9ea7-895392f17a70.png)
 
 
 ## Socle Techniques 🔧
@@ -64,8 +62,8 @@ Cette application permet aux utilisateurs (professeurs et étudiants) de répert
      symfony server:start
      ```
 3. Rendez vous sur un navigateur et accéder à localhost
-<img src="https://user-images.githubusercontent.com/101253389/158605649-82cba167-1929-48a0-8cfc-2869467650c1.PNG" align="center" alt="CommandeStart" width="90%" 
-     height="auto">
+![env](https://user-images.githubusercontent.com/102730163/162526242-0c1946a4-c948-4e9d-8113-9597ef11e8e2.png)
+
 
 ## Installation : Base de données
 
